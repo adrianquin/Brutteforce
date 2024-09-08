@@ -1,6 +1,6 @@
 # FTP Brute Force Script
 
-Este script realiza un ataque de fuerza bruta a un servidor FTP utilizando una lista de contraseñas. Además, permite el uso de proxies para evadir firewalls y evitar bloqueos.
+Estos script realiza un ataque de fuerza bruta a un servidor FTP y SSH utilizando una lista de contraseñas. Además, permite el uso de proxies para evadir firewalls y evitar bloqueos.
 
 ## Requisitos
 
