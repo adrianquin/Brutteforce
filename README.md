@@ -10,7 +10,7 @@ Estos script realiza un ataque de fuerza bruta a un servidor FTP y SSH utilizand
 Puedes instalar las librerías necesarias con el siguiente comando:
 
 ```bash
-pip install colorama pysocks requests
+pip3 install -r requierements.txt
 
 
 1.Carga de proxies: El script puede cargar una lista de proxies desde un archivo de texto.
