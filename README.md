@@ -23,6 +23,7 @@ Ejecución
 Para ejecutar el script, utiliza el siguiente comando:
 
 python3 ftp_bruteforce.py
+python3 ssh_bruteforce.py
 
 
 Parámetros
